@@ -112,7 +112,7 @@
         <!-- all js here -->
 
         <!-- jquery latest version -->
-        <script src="<?= base_url('assets/js/vendor/jquery-1.12.4.min.js') ?>"></script>
+        <script src="<?= base_url('assets/js/jquery-1.12.4.min.js') ?>"></script>
         <!-- bootstrap js -->
         <script src="<?= base_url('assets/js/bootstrap.min.js') ?>"></script>
         <!-- owl.carousel js -->

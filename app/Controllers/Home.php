@@ -9,4 +9,14 @@ class Home extends BaseController
         return view('home');
     }
 
+    public function setup(): string
+    {
+        return view('admin/home');
+    }
+
+    public function slider(): string
+    {
+        return view('admin/slider');
+    }
+
 }

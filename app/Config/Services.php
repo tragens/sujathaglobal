@@ -4,6 +4,10 @@ namespace Config;
 
 use CodeIgniter\Config\BaseService;
 
+use App\Models\SystemLogsModel;
+use App\Models\UserModel;
+use App\Models\SessionModel;
+
 /**
  * Services Configuration file.
  *
@@ -29,4 +33,33 @@ class Services extends BaseService
      *     return new \CodeIgniter\Example();
      * }
      */
+
+    public static function systemlogsModel($getShared = true)
+    {
+        if ($getShared) {
+            return static::getSharedInstance('systemlogsModel');
+        }
+
+        return new SystemLogsModel();
+    }
+
+    public static function userModel(bool $getShared = true)
+    {
+        if ($getShared) {
+            return static::getSharedInstance('userModel');
+        }
+
+        return new UserModel();
+    }
+
+    public static function sessionModel(bool $getShared = true)
+    {
+        if ($getShared) {
+            return static::getSharedInstance('sessionModel');
+        }
+
+        return new SessionModel();
+    }
+
+    
 }
