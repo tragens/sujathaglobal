@@ -132,7 +132,7 @@ a:active, a:hover {
   outline: 0 none;
 }
 a:hover, a:focus {
-    color: #fd5f16;
+    color: #030303;
     text-decoration: none;
 }
 body {
@@ -160,7 +160,7 @@ body {
   width: 34px;
 }
 #scrollUp:hover {
-    background: #fd5f16;
+    background: #555757;
     opacity: 1;
 }
 .clear{
@@ -192,15 +192,15 @@ div#preloader {
     padding-left: 0px;
 }
 ::-moz-selection {
-    background: #fd5f16;
+    background: #555757;
     text-shadow: none;
 }
 ::selection {
-    background: #fd5f16;
+    background: #555757;
     text-shadow: none;
 }
 .color{
-    color:#fd5f16;
+    color:#030303;
     font-weight: 700;
 }
 .browserupgrade {
@@ -236,7 +236,7 @@ div#preloader {
     margin-bottom: 30px;
 }
 .section-headline::after {
-    border: 1px solid #fd5f16;
+    border: 1px solid #030303;
     bottom: -27px;
     content: "";
     left: 0;
@@ -246,7 +246,7 @@ div#preloader {
     right: 0;
 }
 .section-headline.text-left h3::after {
-    border: 2px solid #fd5f16;
+    border: 2px solid #030303;
     left: 0;
     right: auto;
 }
@@ -264,7 +264,7 @@ div#preloader {
     text-transform: uppercase;
     font-size: 13px;
     margin-bottom: 10px;
-	color:#fd5f16;
+	color:#030303;
 }
 .section-headline h4 {
     font-size: 26px;
@@ -276,7 +276,7 @@ div#preloader {
 }
 .load-more-btn {
     text-transform: uppercase;
-    background: #fd5f16;
+    background: #030303;
     display: inline-block;
     padding: 15px 30px;
     color: #fff;
@@ -285,12 +285,12 @@ div#preloader {
     border-radius: 3px;
     width: 200px;
 	transition: 0.4s;
-	border:2px solid #fd5f16;
+	border:2px solid #030303;
 }
 .load-more-btn:hover{
     background: #fff;
-	border:2px solid #fd5f16;
-    color: #fd5f16;
+	border:2px solid #030303;
+    color: #030303;
 	transition: 0.4s;
 }
 .bg-color{
@@ -320,7 +320,7 @@ div#preloader {
 	padding-bottom: 10px;
 }
 .left-headline::after {
-    border: 1px solid #fd5f16;
+    border: 1px solid #030303;
     bottom: 0px;
     content: "";
     left: 0;
@@ -340,7 +340,7 @@ div#preloader {
 	bottom: 0;
 	width: 50px;
 	height: 2px;
-	background: #fd5f16;
+	background: #030303;
 }
 .sub-headline h4 {
     text-transform: uppercase;
@@ -362,7 +362,7 @@ div#preloader {
 	right: 0;
 	margin: 0 auto;
 	height: 2px;
-	background: #fd5f16;
+	background: #030303;
 }
 /*--------------------------------*/
 /*  2. Header top Area
@@ -370,9 +370,7 @@ div#preloader {
 .topbar-left ul li {
     display: inline-block;
 }
-.topbar-area {
-    background:#243559;
-}
+
 .topbar-left ul li a {
     color: #ddd;
     display: block;
@@ -383,7 +381,7 @@ div#preloader {
     font-size: 16px;
 }
 .topbar-left ul li a i {
-    color: #fd5f16;
+    color: #030303;
     font-size: 16px;
     padding-right: 7px;
 }
@@ -395,16 +393,16 @@ div#preloader {
     font-size: 14px;
     font-weight: 800;
     color: #fff;
-    background: #fd5f16;
+    background: #030303;
     display: inline-block;
-    border: 2px solid #fd5f16;
+    border: 2px solid #030303;
     padding: 11px 20px;
     margin: 0px;
 	transition: 0.4s;
 }
 .quote-button .quote-btn:hover {
 	background: #fff;
-	color: #fd5f16;
+	color: #008000;
 	border: 2px solid #fff;
 	transition: 0.4s;
 }
@@ -422,7 +420,7 @@ div#preloader {
 	box-shadow: 2px 2px 5px #ccc, 0px 0px 0px #ccc;
 }
 .logo-bg{
-	background: #fd5f16;
+	background: #030303;
 	z-index: 10;
 }
 .logo-bg:after {
@@ -432,7 +430,7 @@ div#preloader {
     top: 0;
     border-top: 100px solid transparent;
     border-bottom: 0 solid transparent;
-    border-left: 100px solid #fd5f16;
+    border-left: 100px solid #008000;
 	z-index: 10;
 }
 .logo-bg:before {
@@ -440,7 +438,7 @@ div#preloader {
     position: absolute;
     left: -90px;
     top: 0;
-    background: #fd5f16;
+    background: #030303;
     z-index: 10;
     width: 90px;
     height: 100%;
@@ -468,10 +466,10 @@ div#preloader {
 	margin: 0px 15px;
 }
 .main-menu ul.navbar-nav li a:hover{
-	color: #fd5f16;
+	color: #008000;
 }
 .main-menu ul.navbar-nav > li > a::before {
-    background: #fd5f16;
+    background: #008000;
     content: "";
     height: 2px;
     position: absolute;
@@ -488,7 +486,7 @@ div#preloader {
 }
 .main-menu ul.navbar-nav li.active a {
     background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
-    color: #fd5f16;
+    color: #008000;
     position: relative;
     z-index: 9999999;
 }
@@ -511,8 +509,8 @@ div#preloader {
     background: none;
 }
 .main-menu ul.nav li ul.sub-menu {
-    background: #fff;
-    border-top: 2px solid #fd5f16;
+    background: #008000;
+    border-top: 2px solid #008000;
     left: 0;
     opacity: 0;
     position: absolute;
@@ -551,7 +549,7 @@ div#preloader {
 }
 .main-menu ul.nav li:hover ul.sub-menu li a:hover{
     color:#fff;
-	background: #fd5f16;
+	background: #008000;
 }
 .main-menu ul.nav li ul.sub-menu li:last-child {
     border:none;
@@ -586,7 +584,7 @@ div#preloader {
     height: 44px;
 }
 .search-option button.button {
-    background: #fd5f16;
+    background: #008000;
     border: medium none;
     color: #fff;
     display: inline-block;
@@ -606,7 +604,7 @@ div#preloader {
     text-align: center;
     width: 40px;
     height: 40px;
-    background: #fd5f16;
+    background: #030303;
     border-radius: 5px;
     margin: 30px 0px 30px 10px;
 }
@@ -711,15 +709,7 @@ div#preloader {
     position: relative;
     z-index: 1;
 }
-.intro-content::after {
-    background: rgba(10, 27, 40, 0.8) none repeat scroll 0 0;
-    content: "";
-    height: 100%;
-    left: 0;
-    position: absolute;
-    top: 0;
-    width: 100%;
-    z-index: 1;
+
 }
 .slider-content {
     position: absolute;
@@ -735,7 +725,7 @@ div#preloader {
     margin: 20px 0;
 }
 .layer-1-1 p {
-    color: #fff;
+    color: black;
     font-size: 18px;
     letter-spacing: 0.60px;
     line-height: 30px;
@@ -753,7 +743,7 @@ div#preloader {
     max-width: 925px;
 }
 .ready-btn {
-    border: 1px solid #fd5f16;
+    border: 1px solid #030303;
     color: #fff;
     cursor: pointer;
     display: inline-block;
@@ -764,13 +754,13 @@ div#preloader {
     text-transform: uppercase;
     transition: all 0.4s ease 0s;
     z-index: 222;
-    background: #fd5f16;
+    background: #030303;
     width: 160px;
 }
 .ready-btn:hover{
     color: #fff;
-    background: #fd5f16;
-    border: 2px solid #fd5f16;
+    background: #030303;
+    border: 2px solid #030303;
     text-decoration: none;
 }
 .ready-btn.right-btn {
@@ -780,8 +770,8 @@ div#preloader {
 	color:#fff;
 }
 .ready-btn.right-btn:hover{
-    background: #fd5f16;
-    border: 2px solid #fd5f16;
+    background: #030303;
+    border: 2px solid #030303;
 }
 .ready-btn.left-btn:hover{
     background: transparent;
@@ -789,7 +779,7 @@ div#preloader {
 	color:#fff;
 }
 .layer-1-2 .color {
-    color: #fd5f16;
+    color: #030303;
     font-weight: 900;
 }
 .intro-carousel.owl-carousel.owl-theme .owl-controls .owl-nav div.owl-prev, 
@@ -839,8 +829,8 @@ div#preloader {
 .intro-carousel.owl-carousel.owl-theme:hover .owl-controls .owl-nav div.owl-next:hover,
 .intro-carousel.owl-carousel.owl-theme:hover .owl-controls .owl-nav div.owl-prev:hover{
     color:#fff;
-    background: #fd5f16;
-    border: 2px solid #fd5f16;
+    background: #030303;
+    border: 2px solid #030303;
 }
 .intro-carousel .owl-item .layer-1-2{
     transform: translateY(100%);
@@ -863,10 +853,12 @@ div#preloader {
     transform: translateY(0);
     opacity: 1;
 }
-.intro-carousel .owl-item.active .slider-images img{
-	transform: scale(1.1);
-	transition: 10s;
+.intro-carousel .owl-item.active .slider-images img {
+    transform: scale(1.1);
+    transition: 10s;
+    margin: 0 20px; /* adds left & right margin */
 }
+
 /*----------------------------------------*/
 /*  4. Wellcome Services Area
 /*----------------------------------------*/
@@ -886,7 +878,7 @@ div#preloader {
 	bottom:0;
 	width: 0%;
 	height: 2px;
-	background: #fd5f16;
+	background: #008000;
 	content:"";
 	transition: 0.5s;
 }
@@ -905,11 +897,11 @@ div#preloader {
 .well-services:hover::after{
 	width: 100%;
 	height: 2px;
-	background: #fd5f16;
+	background: #008000;
 	transition: 0.5s;
 }
 .well-content h4 a:hover {
-	color:#fd5f16;
+	color:#008000;
 }
 .well-icon {
     margin-bottom: 20px;
@@ -918,8 +910,9 @@ div#preloader {
 .well-icon a{
 	font-size: 60px;
 	line-height: 60px;
-	color:#fd5f16;
+	color:#008000;
 }
+
 /*----------------------------------------*/
 /*  5. About area
 /*----------------------------------------*/
@@ -932,7 +925,7 @@ div#preloader {
 	font-family: 'Montserrat', sans-serif;
 }
 .about-content h4 ::after {
-    border: 1px solid #fd5f16;
+    border: 1px solid #030303;
     bottom: 3px;
     content: "";
     left: 0;
@@ -972,7 +965,7 @@ div#preloader {
 }
 .single-about a {
     font-size: 40px;
-    color: #fd5f16;
+    color: #030303;
     float: left;
     line-height: 49px;
 }
@@ -1014,7 +1007,7 @@ div#preloader {
     min-height: 380px;
 }
 .video-play.vid-zone {
-    background: #fd5f16;
+    background: #030303;
     border-radius: 100%;
     display: inline-block;
     font-size: 24px;
@@ -1038,11 +1031,11 @@ div#preloader {
 }
 .video-play.vid-zone:hover {
     background: #fff;
-    color: #fd5f16;
+    color: #030303;
 	transition: 0.4s;
 }
 .video-play.vid-zone:hover i{
-    color: #fd5f16;
+    color: #030303;
 }
 /*--------------------------------*/
 /* 6.Services Area
@@ -1066,7 +1059,7 @@ div#preloader {
     float: left;
     height: 100px;
     font-size: 40px;
-    color: #fd5f16;
+    color: #030303;
 }
 .services-img {
     overflow: hidden;
@@ -1129,17 +1122,12 @@ div#preloader {
     transform: scale(1);
     transition: 0.4s;
 }
-.single-services:hover .image-layer {
-    position: absolute;
-    left: 0;
-    top: 0;
-	transition: 0.4s;
-}
+
 .single-services:hover .service-content h4{
-    color: #fd5f16;
+    color: #030303;
 }
 .single-services:hover .service-btn:hover{
-    color: #fd5f16;
+    color: #030303;
 }
 .services-carousel .col-md-4{
 	width: 100%;
@@ -1197,14 +1185,14 @@ div#preloader {
 .services-carousel.owl-carousel.owl-theme:hover .owl-controls .owl-nav div.owl-next:hover,
 .services-carousel.owl-carousel.owl-theme:hover .owl-controls .owl-nav div.owl-prev:hover{
     color:#fff;
-    background: #fd5f16;
-    border: 1px solid #fd5f16;
+    background: #030303;
+    border: 1px solid #030303;
 }
 /*----------------------------------------*/
 /* 7.Counter Area
 /*----------------------------------------*/
 .counter-area{
-   background: rgba(0, 0, 0, 0) url(img/background/bg1.jpg) no-repeat scroll bottom center / cover; 
+   background: rgba(0, 0, 0, 0) url(img/background/bg1.jpeg) no-repeat scroll bottom center / cover; 
 }
 .counter-inner {
     background: #f6f6f6;
@@ -1220,7 +1208,7 @@ div#preloader {
 	margin-right: 0px;
 }
 .fun_text span {
-    color: #fd5f16;
+    color: #030303;
     display: block;
     font-size: 54px;
     font-weight: bold;
@@ -1337,7 +1325,7 @@ div#preloader {
     color: #fff;
 }
 .project-dec h4 a:hover {
-    color: #fd5f16;
+    color: #030303;
 }
 .project-dec span {
     font-size: 14px;
@@ -1368,7 +1356,7 @@ div#preloader {
 .project-menu li a:hover {
     color: #fff;
     text-decoration: none;
-	background: #fd5f16;
+	background: #030303;
 }
 .project-menu {
     margin-bottom: 10px;
@@ -1396,7 +1384,7 @@ div#preloader {
 /*  9. Testimonials Area
 /*----------------------------------------*/
 .testimonial-area{
-	background: rgba(0, 0, 0, 0) url(img/background/bg1.jpg) no-repeat scroll bottom center / cover; 
+	background: rgba(0, 0, 0, 0) url(img/background/bg1.jpeg) no-repeat scroll bottom center / cover; 
 }
 .single-testi {
     padding: 30px 20px;
@@ -1482,7 +1470,7 @@ div#preloader {
 .blog-meta {
     position: relative;
     top: -40px;
-    background: #fd5f16;
+    background: #030303;
     width: 60px;
     padding: 7px 10px;
     left: 15px;
@@ -1515,7 +1503,7 @@ div#preloader {
     margin-top: 20px;
 }
 .blog-content a h4:hover{
-    color:#fd5f16;
+    color:#030303;
 }
 .blog-btn {
     display: inline-block;
@@ -1532,12 +1520,12 @@ div#preloader {
     bottom: 0px;
     opacity: 0;
     transition: 0.5s;
-    background: #fd5f16;
+    background: #030303;
     width: 0px;
     height: 2px;
 }
 .blog-btn:hover {
-    color: #fd5f16;
+    color: #030303;
 }
 .blog-btn:hover.blog-btn::after {
     width: 100%;
@@ -1548,7 +1536,7 @@ div#preloader {
 /*  11. Quote  Area
 /*----------------------------------------*/
 .contact-quote-area{
-   background: rgba(0, 0, 0, 0) url(img/background/bg1.jpg) no-repeat scroll bottom center / cover; 
+   background: rgba(0, 0, 0, 0) url(img/background/bg1.jpeg) no-repeat scroll bottom center / cover; 
 }
 .quote-details {
     padding: 12% 17%;
@@ -1580,8 +1568,8 @@ div#preloader {
     color: #fff;
 }
 .contact-quote-area .quote-btn {
-    background: #fd5f16;
-    border: 1px solid #fd5f16;
+    background: #030303;
+    border: 1px solid #030303;
     color: #fff;
     padding: 10px 20px;
     font-size: 17px;
@@ -1670,7 +1658,7 @@ div#preloader {
     top: -10px;
 }
 .faq-details a.active span.acc-icons::before {
-    color: #fd5f16;
+    color: #030303;
     content: "\e873";
     font-family: tionscal;
     font-size: 16px;
@@ -1681,14 +1669,14 @@ div#preloader {
     top: -10px;
 }
 .faq-details .panel-heading h4 a.active {
-    color: #fd5f16;
+    color: #030303;
     background: #f9f9f9;
 }
 /*----------------------------------------*/
 /*  12. banner Area
 /*----------------------------------------*/
 .banner-area{
-	background: #fd5f16;
+	background: #030303;
 }
 .banner-area{
 	padding: 30px 0px;
@@ -1708,7 +1696,7 @@ div#preloader {
     border: 1px solid #fff;
     display: inline-block;
     padding: 14px 24px;
-    color: #fd5f16;
+    color: #030303;
     font-weight: 600;
     font-size: 20px;
     background: #fff;
@@ -1730,7 +1718,7 @@ div#preloader {
 /*----------------------------------------*/
 .footer-area {
     padding: 70px 0;
-    background: #071333;
+    background: #006400;
 }
 .footer-logo{
 	margin-bottom: 15px;
@@ -1767,8 +1755,8 @@ div#preloader {
 .footer-tags li a:hover,
 .footer-icons ul li a:hover{
     color: #fff;
-	background: #fd5f16;
-	border:1px solid #fd5f16;
+	background: #030303;
+	border:1px solid #030303;
 }
 .footer-tags li {
     float: left;
@@ -1802,8 +1790,8 @@ div#preloader {
     border: 1px solid #777;
 }
 .suscribe-input button {
-    background: #fd5f16;
-    border: 1px solid #fd5f16;
+    background: #030303;
+    border: 1px solid #030303;
     color: #fff;
     font-size: 16px;
     padding: 8px 20px;
@@ -1816,11 +1804,11 @@ div#preloader {
 .suscribe-input button:hover {
     background: #fff;
     border: 1px solid #fff;
-    color: #fd5f16;
+    color: #030303;
     transition: 0.4s;
 }
 .footer-contacts p span {
-    color: #fd5f16;
+    color: #030303;
     font-weight: 700;
 }
 .footer-content {
@@ -1850,7 +1838,7 @@ div#preloader {
     left: 0;
 }
 .footer-list li a:hover {
-    color: #fd5f16;
+    color: #030303;
 }
 .footer-area-bottom {
     background: #071333 none repeat scroll 0 0;
@@ -1859,7 +1847,7 @@ div#preloader {
 }
 .copyright-text a:hover{
 	text-decoration: underline;
-	color:#fd5f16;
+	color:#030303;
 }
 .copyright-text a {
     color: #ddd;
@@ -1869,7 +1857,7 @@ div#preloader {
     color: #ddd;
 }
 .copyright a {
-    color: #fd5f16;
+    color: #fff;
 }
 /*--------------------------------*/
 /* 14.Home page 2
@@ -1904,7 +1892,7 @@ div#preloader {
 	color: #fff;
 }
 .header-area-2 .main-menu ul.navbar-nav li a:hover{
-	color: #fd5f16;
+	color: #030303;
 }
 .intro-area-2 .slider-content {
     margin-top: -100px;
@@ -1931,7 +1919,7 @@ div#preloader {
     left: 0;
     top: 3px;
     font-family: tionscal;
-    color: #fd5f16;
+    color: #030303;
     font-weight: 700;
 }
 .video-text h4 {
@@ -1949,7 +1937,7 @@ div#preloader {
 /*  15.Overview  Area
 /*----------------------------------------*/
 .overview-area{
-   background: rgba(0, 0, 0, 0) url(img/background/bg1.jpg) no-repeat scroll center center / cover; 
+   background: rgba(0, 0, 0, 0) url(img/background/bg1.jpeg) no-repeat scroll center center / cover; 
 }
 .parallax-bg{
     position:relative;
@@ -1983,7 +1971,7 @@ div#preloader {
     font-size: 50px;
     line-height: 50px;
     text-align: center;
-    color: #fd5f16;
+    color: #030303;
 }
 .view-content {
     padding-left: 80px;
@@ -2014,7 +2002,7 @@ div#preloader {
     content: "";
     width: 5px;
     height: 80px;
-    background: #fd5f16;
+    background: #030303;
     left:0;
     top:0px;
 }
@@ -2047,8 +2035,8 @@ div#preloader {
     color: #444;
 }
 .footer-area-2 .footer-icons ul li a {
-    color: #fd5f16;
-    border: 1px solid #fd5f16;
+    color: #030303;
+    border: 1px solid #030303;
 }
 .footer-area-2 .footer-icons ul li a:hover{
 	color:#fff;
@@ -2057,7 +2045,7 @@ div#preloader {
 	color:#444;
 }
 .footer-area-2 .footer-list li a:hover{
-	color:#fd5f16;
+	color:#030303;
 }
 .well-inner .well-services{
 	margin-top: 30px;
@@ -2072,7 +2060,7 @@ div#preloader {
 /* 16. Home page 3
 /*--------------------------------*/
 .header-area-3 .logo-bg{
-	background: #fd5f16;
+	background: #030303;
 	z-index: 10;
 	margin-left: 15px;
 }
@@ -2135,8 +2123,8 @@ div#preloader {
 .project-carousel.owl-carousel.owl-theme:hover .owl-controls .owl-nav div.owl-next:hover,
 .project-carousel.owl-carousel.owl-theme:hover .owl-controls .owl-nav div.owl-prev:hover{
     color:#fff;
-    background: #fd5f16;
-    border: 1px solid #fd5f16;
+    background: #030303;
+    border: 1px solid #030303;
 }
 .project-carousel .col-md-4{
 	padding-left: 0px;
@@ -2186,7 +2174,7 @@ div#preloader {
     margin-bottom: 5px;
 }
 .team-title h6 {
-    color: #fd5f16;
+    color: #030303;
 }
 .team-share p {
     color: #fff;
@@ -2205,7 +2193,7 @@ div#preloader {
     border-radius: 50%;
 }
 .social-icon li a:hover{
-    color: #fd5f16;
+    color: #030303;
 }
 .team-content .social-icon{
   margin-top: 15px;
@@ -2229,7 +2217,7 @@ div#preloader {
 	transition: 0.4s;
 }
 .welcome-area-2 .well-services:hover{
-	background:#fd5f16;
+	background:#008000;
 	transition: 0.4s;
 }
 .welcome-area-2 .well-services:hover .well-icon a,
@@ -2271,8 +2259,8 @@ div#preloader {
     margin-bottom: 20px;
 }
 .quote-area .quote-btn {
-    background: #fd5f16;
-    border: 1px solid #fd5f16;
+    background: #555757;
+    border: 1px solid #030303;
     color: #fff;
     padding: 10px 20px;
     font-size: 17px;
@@ -2283,7 +2271,7 @@ div#preloader {
 }
 .quote-area .quote-btn:hover{
     background: #fff;
-    color:#fd5f16;
+    color:#030303;
 }
 .quote-area .help-block.last-part{
 	margin:0px;
@@ -2301,7 +2289,7 @@ div#preloader {
     bottom: 10px;
     width: 50px;
     height: 2px;
-    background: #fd5f16;
+    background: #030303;
 }
 .sub-head p{
 	color:#fff;
@@ -2345,7 +2333,7 @@ div#preloader {
 	padding: 25px 0;
 }
 .header-icon i {
-    color: #fd5f16;
+    color: #030303;
     font-size: 34px;
     line-height: 40px;
 }
@@ -2369,7 +2357,7 @@ div#preloader {
 }
 .header-area-6 .main-menu ul.navbar-nav li.active >a,
 .header-area-6 .main-menu ul.navbar-nav > li > a:hover{
-    background:#fd5f16;
+    background:#030303;
 	color:#fff;
 }
 .header-area-6 .header-right-link a.main-search {
@@ -2385,7 +2373,7 @@ div#preloader {
     position: relative;
 }
 .page-area {
-    background: url(img/background/b.jpg);
+    background: url(img/background/b.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top center;
@@ -2398,6 +2386,7 @@ div#preloader {
   left: 0;
   height: 100%;
 }
+
 .breadcrumb{
     padding: 100px 0px;
     background-color: transparent;
@@ -2485,9 +2474,9 @@ div#preloader {
 .faq-page-area .quote-btn {
     font-weight: 600;
     color: #fff;
-    background: #fd5f16;
+    background: #030303;
     display: inline-block;
-    border: 2px solid #fd5f16;
+    border: 2px solid #030303;
     padding: 10px 20px;
     width: 134px;
     text-transform: uppercase;
@@ -2497,7 +2486,7 @@ div#preloader {
 }
 .faq-page-area .quote-btn:hover{
 	background: #fff;
-	color: #fd5f16;
+	color: #030303;
 	transition: 0.4s;
 }
 /*--------------------------------*/ 
@@ -2516,8 +2505,8 @@ div#preloader {
     font-size: 24px;
 }
 .error-btn {
-    background: #fd5f16;
-    border: 2px solid #fd5f16;
+    background: #030303;
+    border: 2px solid #030303;
     color: #fff;
     font-size: 16px;
     padding: 12px 20px;
@@ -2530,8 +2519,8 @@ div#preloader {
 }
 .error-btn:hover{
     background: #fff;
-    border: 2px solid #fd5f16;
-    color: #fd5f16;
+    border: 2px solid #030303;
+    color: #030303;
 }
 /*----------------------------------------*/
 /*  25.	Contact Us page
@@ -2552,7 +2541,7 @@ div#preloader {
     font-size: 26px;
 }
 .contact-inner a i {
-    color: #fd5f16;
+    color: #030303;
     display: inline-block;
     font-size: 20px;
     text-align: center;
@@ -2584,8 +2573,8 @@ div#preloader {
     width: 100%;
 }
 .contact-page .contact-btn {
-    background: #fd5f16;
-    border: 2px solid #fd5f16;
+    background: #030303;
+    border: 2px solid #030303;
     color: #fff;
     display: inline-block;
     font-size: 16px;
@@ -2600,8 +2589,8 @@ div#preloader {
 }
 .contact-page .contact-btn:hover {
     background:transparent;
-    border: 2px solid #fd5f16 ;
-    color: #fd5f16;
+    border: 2px solid #030303 ;
+    color: #030303;
     transition: 0.4s;
 }
 .map-area {
@@ -2631,7 +2620,7 @@ div#preloader {
     padding: 0px 10px;
 }
 .blog-search-option button i:hover {
-    color: #fd5f16;
+    color: #030303;
 }
 .left-blog h4 {
     border-bottom: 1px solid #ddd;
@@ -2689,7 +2678,7 @@ div#preloader {
     padding-left: 10px;
 }
 .pst-content p a:hover,.left-blog ul li a:hover {
-    color: #fd5f16;
+    color: #030303;
 }
 .left-blog-page {
     
@@ -2718,17 +2707,17 @@ div#preloader {
 .left-tags .left-side-tags ul li a {
     padding: 5px 10px;
     width: auto;
-    border: 1px solid #fd5f16;
-    background: #fd5f16;
+    border: 1px solid #030303;
+    background: #030303;
     color: #fff;
     border-radius: 5px;
     font-weight: 700;
     font-size: 14px;
 }
 .left-tags .left-side-tags ul li a:hover {
-    border: 1px solid #fd5f16;
+    border: 1px solid #030303;
     background: #fff;
-	color:#fd5f16
+	color:#030303
 }
 .left-side-tags h4 {
     margin-bottom: 15px;
@@ -2763,7 +2752,7 @@ blockquote {
     padding: 10px 20px;
     margin: 0 0 20px;
     font-size: 15px;
-    border-left: 5px solid #fd5f16;
+    border-left: 5px solid #030303;
     font-style: italic;
 }
 blockquote p {
@@ -2818,13 +2807,13 @@ span.email-notes{color: #42414f;
     width: 100%;
 }
 .comments-content-wrap span a {
-    color: #fd5f16;
+    color: #030303;
 }
 .comments-content-wrap span a:hover {
-    color: #fd5f16;
+    color: #030303;
 }
 .comment-respond .add-btn.contact-btn {
-    background: #fd5f16;
+    background: #030303;
     color: #fff;
     display: block;
     font-size: 16px;
@@ -2834,14 +2823,14 @@ span.email-notes{color: #42414f;
     border-radius: 5px;
     width: auto !important;
     margin-top: 20px;
-    border: 2px solid #fd5f16;
+    border: 2px solid #030303;
     text-transform: uppercase;
     font-weight: 700;
 }
 .comment-respond .add-btn.contact-btn:hover{
     background: #FFF;
-	color: #fd5f16;
-    border:2px solid #fd5f16;
+	color: #030303;
+    border:2px solid #030303;
 }
 .pagination {
     display: inline-block;
@@ -2874,16 +2863,16 @@ span.email-notes{color: #42414f;
 .pagination>.active>span:focus{
     z-index: 3;
     color: #fff;
-    background-color: #fd5f16;
-    border-color: #fd5f16;
+    background-color: #030303;
+    border-color: #030303;
     cursor: default;
     border-radius: 5px;
 }
 .pagination>li>a:hover, .pagination>li>span:hover, .pagination>li>a:focus, .pagination>li>span:focus {
     z-index: 2;
     color: #fff;
-    background-color: #fd5f16;
-    border-color: #fd5f16;
+    background-color: #030303;
+    border-color: #030303;
     border-radius: 2px;
 }
 .blog-page-details .left-blog-page {
@@ -2933,8 +2922,8 @@ span.email-notes{color: #42414f;
 }
 .project-carousel-2.owl-carousel.owl-theme .owl-controls .owl-nav div.owl-prev:hover,
 .project-carousel-2.owl-carousel.owl-theme .owl-controls .owl-nav div.owl-next:hover{
-    background: #fd5f16;
-    border: 1px solid #fd5f16;
+    background: #030303;
+    border: 1px solid #030303;
     color: #fff;
 }
 .project-carousel-2.owl-carousel.owl-theme .owl-controls .owl-nav div.owl-next {
@@ -2990,8 +2979,8 @@ span.email-notes{color: #42414f;
 }
 .project-share li a:hover{
     color: #fff;
-    background: #fd5f16;
-    border: 1px solid #fd5f16;
+    background: #030303;
+    border: 1px solid #030303;
 }
 .project-content.project-related{
     margin-top: -30px;
@@ -3024,13 +3013,13 @@ span.email-notes{color: #42414f;
     padding-bottom: 0;
 }
 .left-menu ul li.active a {
-    background: #fd5f16 none repeat scroll 0 0;
+    background: #030303 none repeat scroll 0 0;
     color: #fff;
     position: relative;
 }
 .left-menu ul li a:hover {
     color: #fff;
-    background: #fd5f16; 
+    background: #030303; 
 }
 .left-menu ul li a {
     background: #f9f9f9;
@@ -3073,7 +3062,7 @@ span.email-notes{color: #42414f;
 }
 .down-btn:hover{
     color:#fff;
-    background: #fd5f16;
+    background: #030303;
 }
 .single-well h3 {
     margin-bottom: 15px;
@@ -3086,7 +3075,7 @@ span.email-notes{color: #42414f;
 	padding: 30px 20px;
 }
 .support-text h4{
-    color:#fd5f16;
+    color:#030303;
     font-weight: 700;
 }
 .support-text a {
@@ -3134,7 +3123,7 @@ span.email-notes{color: #42414f;
     content:"\f00c";
     font-family:fontawesome;
     top:0;
-    color: #fd5f16;
+    color: #030303;
 }
 .single-page-head .service-btn{
     width: 100%;
@@ -3159,7 +3148,7 @@ span.email-notes{color: #42414f;
     left: 0;
     top: 3px;
     font-family: tionscal;
-    color: #fd5f16;
+    color: #030303;
     font-weight: 700;
 }
 .tab-menu {
@@ -3175,7 +3164,7 @@ span.email-notes{color: #42414f;
     display: inline-block;
 }
 .tab-menu ul.nav li a {
-	color: #fd5f16;
+	color: #030303;
 }
 .tab-menu ul.nav li a {
     background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
@@ -3189,8 +3178,8 @@ span.email-notes{color: #42414f;
     width: 131px;
 }
 .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
-  background-color: #fd5f16 !important;
-  border-color: #fd5f16;
+  background-color: #030303 !important;
+  border-color: #030303;
   border-image: none;
   border-style: solid;
   border-width: 1px;
@@ -3199,7 +3188,7 @@ span.email-notes{color: #42414f;
   position: relative;
 }
 .event-content.head-team h5 {
-    background: #fd5f16 none repeat scroll 0 0;
+    background: #030303 none repeat scroll 0 0;
     color: #fff;
     padding: 10px 20px;
     text-transform: uppercase;

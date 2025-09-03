@@ -7,6 +7,7 @@ use CodeIgniter\Config\BaseService;
 use App\Models\SystemLogsModel;
 use App\Models\UserModel;
 use App\Models\SessionModel;
+use App\Models\SliderModel;
 
 /**
  * Services Configuration file.
@@ -50,6 +51,15 @@ class Services extends BaseService
         }
 
         return new UserModel();
+    }
+
+    public static function sliderModel(bool $getShared = true)
+    {
+        if ($getShared) {
+            return static::getSharedInstance('sliderModel');
+        }
+
+        return new SliderModel();
     }
 
     public static function sessionModel(bool $getShared = true)

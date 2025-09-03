@@ -737,8 +737,15 @@
     max-width: 360px;
 }	
 	
-	
-	
-    
+.intro-area-4 .slider-content,
+.intro-area-4 .slider-content::before {
+    background: transparent !important;
+    box-shadow: none !important;
 }
+
+
+
+
+
+
  

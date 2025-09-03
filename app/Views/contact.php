@@ -22,34 +22,35 @@
         </div>
         <!-- End breadcumb Area -->
          <!-- Start contact Area -->
-        <div class="map-area">
+<!--         <div class="map-area">
             <div class="container">
                 <div class="row">
-                    <!-- Start contact icon column -->
-                    <div class="col-md-12 col-sm-12 col-xs-12">
+ -->                    <!-- Start contact icon column -->
+                    <!-- <div class="col-md-12 col-sm-12 col-xs-12"> -->
                         <!-- Start Map -->
-                        <div class="map-main">
+<!--                         <div class="map-main">
                             <div id="googleMap" style="width:100%;height:450px;"></div>
                         </div>
-                        <!-- End Map -->
-                    </div>
+ -->                        <!-- End Map -->
+<!--                     </div>
                 </div>
             </div>
         </div>
-        <!-- Start contact Area -->
+ -->        <!-- Start contact Area -->
         <div class="contact-page area-padding">
             <div class="container">
                 <div class="row">
                    <div class="col-md-6 col-sm-6 col-xs-12">
                         <div class="contact-head">
-                            <h3>Request a Contact us</h3>
-                            <p>Water The universal acceptance of website has given a tremendous opportunity for merchants to do crossborder transactions instantly and at reduced cost.</p>
+                            <h3>Contact us</h3>
+                            <p>We’d love to hear from you! Whether you’re interested in our premium food crops, natural oils, or sustainable wood products, our team is ready to assist you with inquiries, quotations, and partnership opportunities.  
+</p>
                             <div class="contact-icon">
 								<div class="contact-inner">
 									<h5>Location :</h5>
-									<a href="#"><i class="fa fa-map"></i><span>Road-7 old Street, Dubai</span></a>
-									<a href="#"><i class="fa fa-phone"></i><span>+2112-6546654</span></a>
-									<a href="#"><i class="fa fa-envelope"></i><span>info@tionscal3.com</span></a>
+									<a href="#"><i class="fa fa-map"></i><span>Plot no 4 , Ramadhani , Makete Road, Njombe, Tanzania </span></a>
+									<a href="#"><i class="fa fa-phone"></i><span>+255 679 199 555 / +255 679106199</span></a>
+									<a href="#"><i class="fa fa-envelope"></i><span>info@sujathaglobal.co.tz</span></a>
 								</div>
 							</div>
                         </div>

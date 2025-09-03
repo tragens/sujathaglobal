@@ -1,5 +1,13 @@
  <?php include "common/header.php";?> 
  <?php include "common/sidebar.php";?> 
+
+ <style>
+     .logo-img img{
+        width: 600px;
+        height: 600px;
+        object-fit: cover;
+     }
+ </style>
         <!-- Start breadcumb Area -->
         <div class="page-area">
             <div class="breadcumb-overlay"></div>
@@ -19,38 +27,49 @@
                 </div>
             </div>
         </div>
+
         <!-- End breadcumb Area -->
+
          <!-- about-area start -->
         <div class="about-page-area area-padding">
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 col-sm-6 col-xs-12">
                         <div class="about-content">
-<h4><span class="color">Since 2018 </span>SUJATHA GLOBAL delivering quality products worldwide.</h4>
-<p>From our roots in Njombe, Tanzania, SUJATHA GLOBAL has built a reputation for excellence in sourcing and supplying premium agricultural produce and timber products. Our commitment to quality, reliability, and sustainable practices has made us a trusted partner for clients across Africa and beyond.</p>
-                            <div class="about-details text-center">
-<div class="single-about">
-    <div class="icon-title">
-        <a href="#"><i class="icon icon-checkmark-circle"></i></a>
-        <h5>Certified Company</h5>
-    </div>
-    <p>Committed to quality and compliance, we follow international standards and can provide certifications like TBS and Organic on request.</p>
-</div>
+                                <h4>SUJATHA GLOBAL delivering quality products worldwide.</h4>
+                                <!-- <p>From our roots in Njombe, Tanzania, SUJATHA GLOBAL has built a reputation for excellence in sourcing and supplying premium agricultural produce and timber products. Our commitment to quality, reliability, and sustainable practices has made us a trusted partner for clients across Africa and beyond.</p> -->
+                                <p>
+                                We specialize in delivering superior food and wood products that meet global quality standards while remaining competitively priced.  
+                                <br><br>
+                                <b>Food Products:</b> From fresh, variety-graded avocados and cold-pressed food-grade avocado oil to nutrient-rich maize (white and yellow kernels), high-protein pigeon beans, non-GMO soybeans (feed and food-grade), and premium rice (long-grain and medium-grain), we ensure freshness, nutritional value, and consistency.  
+                                <br><br>
+                                <b>Wood Products:</b> Our range includes precision-cut eucalyptus veneer in custom thicknesses, graded kiln-dried pine timber, value-added wood products tailored to specific customer requirements.  
+                                <br><br>
+                                With a focus on sustainability, reliability, and cost efficiency, we provide <b>superior products at the best market prices</b>, backed by timely delivery and customer-first service.
+                                </p>
+                                <div class="about-details text-center">
+                                <div class="single-about">
+                                    <div class="icon-title">
+                                        <a href="#"><i class="icon icon-checkmark-circle"></i></a>
+                                        <h5>Certified Company</h5>
+                                    </div>
+                                    <p>Committed to quality and compliance, we follow international standards and can provide certifications like TBS and Organic on request.</p>
+                                </div>
 
-<div class="single-about">
-    <div class="icon-title">
-        <a href="#"><i class="icon icon-thumbs-up"></i></a>
-        <h5>Trusted Experience</h5>
-    </div>
-    <p>With years of expertise in agricultural exports and timber products, we deliver reliable solutions for clients across Africa and beyond.</p>
-</div>
+                                <div class="single-about">
+                                    <div class="icon-title">
+                                        <a href="#"><i class="icon icon-thumbs-up"></i></a>
+                                        <h5>Trusted Experience</h5>
+                                    </div>
+                                    <p>We expertise in agricultural exports and timber products, we deliver reliable solutions for clients across Africa and beyond.</p>
+                                </div>
                             </div>
                         </div>
                     </div>
                     <!-- column end -->
                     <div class="col-md-6 col-sm-6 col-xs-12">
-                        <div class="about-image">
-                            <img src="img/about/vd.jpg" alt="">
+                        <div class="logo-img">
+                            <img src="<?= base_url('assets/img/logo/logo_round.png') ?>" alt="logo">
                         </div>
                     </div>
                     <!-- column end -->

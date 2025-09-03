@@ -27,6 +27,10 @@
   <link rel="stylesheet" href="<?= base_url('assets/admin/plugins/daterangepicker/daterangepicker.css') ?>">
   <!-- summernote -->
   <link rel="stylesheet" href="<?= base_url('assets/admin/plugins/summernote/summernote-bs4.min.css') ?>">
+  <!-- jQuery -->
+  <script src="<?= base_url('assets/admin/plugins/jquery/jquery.min.Js') ?>"></script>
+  <!-- jQuery UI 1.11.4 -->
+  <script src="<?= base_url('assets/admin/plugins/jquery-ui/jquery-ui.min.Js') ?>"></script>
 </head>
 <body class="hold-transition sidebar-mini layout-fixed">
 <div class="wrapper">
