@@ -53,20 +53,20 @@
         <h4>Our Services</h4>
         <div class="footer-services-link">
             <ul class="footer-list">
-                <li><a href="#">Avocado Supply</a></li>
-                <li><a href="#">Avocado Oil</a></li>
-                <li><a href="#">Grains & Pulses</a></li>
-                <li><a href="#">Soybean Products</a></li>
-                <li><a href="#">Rice Supply</a></li>
-                <li><a href="#">Pigeon Beans</a></li>
+                <li><a href="<?= base_url('Services') ?>">Avocado Supply</a></li>
+                <li><a href="<?= base_url('Services') ?>">Avocado Oil</a></li>
+                <li><a href="<?= base_url('Services') ?>">Grains & Pulses</a></li>
+                <li><a href="<?= base_url('Services') ?>">Soybean Products</a></li>
+                <li><a href="<?= base_url('Services') ?>">Rice Supply</a></li>
+                <li><a href="<?= base_url('Services') ?>">Pigeon Beans</a></li>
             </ul>
             <ul class="footer-list hidden-sm">
-                <li><a href="#">Eucalyptus Veneer</a></li>
-                <li><a href="#">Pine Timber</a></li>
-                <li><a href="#">Custom Wood Products</a></li>
-                <li><a href="#">Export & Logistics</a></li>
-                <li><a href="#">Supply Chain Solutions</a></li>
-                <li><a href="#">Customer Support</a></li>
+                <li><a href="<?= base_url('Services') ?>">Eucalyptus Veneer</a></li>
+                <li><a href="<?= base_url('Services') ?>">Pine Timber</a></li>
+                <li><a href="<?= base_url('Services') ?>">Custom Wood Products</a></li>
+                <li><a href="<?= base_url('Contact') ?>">Export & Logistics</a></li>
+                <li><a href="<?= base_url('Contact') ?>">Supply Chain Solutions</a></li>
+                <li><a href="<?= base_url('Contact') ?>">Customer Support</a></li>
             </ul>
         </div>
     </div>
@@ -111,8 +111,6 @@
         
         <!-- all js here -->
 
-        <!-- jquery latest version -->
-        <script src="<?= base_url('assets/js/jquery-1.12.4.min.js') ?>"></script>
         <!-- bootstrap js -->
         <script src="<?= base_url('assets/js/bootstrap.min.js') ?>"></script>
         <!-- owl.carousel js -->

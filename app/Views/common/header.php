@@ -34,6 +34,10 @@
 
         <!-- modernizr css -->
         <script src="<?= base_url('assets/js/modernizr-2.8.3.min.js') ?>"></script>
+
+        <!-- jquery latest version -->
+        <script src="<?= base_url('assets/js/jquery-1.12.4.min.js') ?>"></script>
+
     </head>
         <body>
 

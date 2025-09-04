@@ -125,21 +125,6 @@
                                     </li>
                                     <li><a class="" href="<?= base_url('Services') ?>">Services</a>
                                     </li>
-                                    <li><a class="pagess" href="##">Projects</a>
-                                        <ul class="sub-menu">
-                                            <li><a href="#project-2.html">Project 2 Column</a></li>
-                                            <li><a href="#project-3.html">Project 3 Column</a></li>
-                                            <li><a href="#project-4.html">Project 4 Column</a></li>
-                                            <li><a href="#single-project.html">Single Project</a></li>
-                                        </ul>
-                                    </li>
-<!--                                     <li><a class="pagess" href="##">Blog</a>
-                                        <ul class="sub-menu">
-                                            <li><a href="#blog.html">Blog grid</a></li>
-                                            <li><a href="#blog-sidebar.html">Blog Sidebar</a></li>
-                                            <li><a href="#blog-details.html">Blog Details</a></li>
-                                        </ul>
-                                    </li> -->
                                     <li><a href="<?= base_url('Contact') ?>">contacts</a></li>
                                 </ul>
                             </div>

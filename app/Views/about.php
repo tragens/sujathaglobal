@@ -3,8 +3,8 @@
 
  <style>
      .logo-img img{
-        width: 600px;
-        height: 600px;
+        width: 400px;
+        height: 400px;
         object-fit: cover;
      }
  </style>
