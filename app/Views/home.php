@@ -157,9 +157,11 @@
 <!-- Start Slider Area -->
 <div class="intro-area intro-area-4">
     <div class="intro-carousel">
+
+<!-- avocado -->
         <div class="intro-content">
             <div class="slider-images mx-4">
-                <img src="<?= base_url('assets/img/slider/S1.jpg') ?>" alt="">
+                <img src="<?= base_url('assets/img/slider/avocado.jpg') ?>" alt="">
             </div>
             <div class="slider-content bg-transparent">
                 <div class="display-table">
@@ -186,7 +188,38 @@
                 </div>
             </div>
         </div>
-
+<!-- avocado oil -->
+<!--         <div class="intro-content">
+            <div class="slider-images mx-4">
+                <img src="< ?= base_url('assets/img/slider/avocadooil.jpeg') ?>" alt="">
+            </div>
+            <div class="slider-content bg-transparent">
+                <div class="display-table">
+                    <div class="display-table-cell">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <div class="layer-1-2">
+                                        <h1 class="title3">Ovocado Oil</h1>
+                                    </div>
+                                    <div class="layer-1-1 color-black">
+                                        <p>
+                                            A trusted general trading company based in Tanzania, we specialize in premium food crops and wood products. Our fresh avocados from East Africa and beyond are rich, creamy, and nutritious, complemented by high-quality cold-pressed avocado oil. Alongside precision-cut pine timber and eucalyptus veneer, we ensure quality, sustainability, and timely delivery every time.
+                                        </p>
+                                    </div>
+                                    <div class="layer-1-3">
+                                        <a href="< ?= base_url('Services') ?>" class="ready-btn left-btn">Our Services</a>
+                                        <a href="< ?= base_url('Contact') ?>" class="ready-btn right-btn">Contact us</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+ -->
+<!-- maize -->
         <div class="intro-content">
             <div class="slider-images">
                 <img src="<?= base_url('assets/img/slider/maize.png') ?>" alt="">
@@ -214,6 +247,8 @@
                 </div>
             </div>
         </div>
+
+<!-- rice -->
         <div class="intro-content">
             <div class="slider-images">
                 <img src="<?= base_url('assets/img/slider/rice.png') ?>" alt="">
@@ -241,6 +276,8 @@
                 </div>
             </div>
         </div>
+
+<!-- pigeonbeans -->
         <div class="intro-content">
             <div class="slider-images">
                 <img src="<?= base_url('assets/img/slider/pigeonbeans.png') ?>" alt="">
@@ -268,6 +305,8 @@
                 </div>
             </div>
         </div>
+
+<!-- soybeans -->
         <div class="intro-content">
             <div class="slider-images">
                 <img src="<?= base_url('assets/img/slider/soybeans.jpg') ?>" alt="">
@@ -295,10 +334,187 @@
                 </div>
             </div>
         </div>
+
+<!-- kidney beans -->
         <div class="intro-content">
             <div class="slider-images">
-                <img src="<?= base_url('assets/img/slider/S2.jpg') ?>" alt="">
+                <img src="<?= base_url('assets/img/slider/kidneybeans.png') ?>" alt="">
             </div>
+            <div class="slider-content">
+                <div class="display-table">
+                    <div class="display-table-cell">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <div class="layer-1-2">
+                                        <h1 class="title1">Kidney Beans</h1>
+                                    </div>
+                                    <div class="layer-1-1">
+                                        <p>SUJATHA GLOBAL COMPANY LIMITED supplies premium red and yellow kidney beans, carefully cleaned and graded for purity. Rich in protein, fiber, and iron, they support heart health and energy. Our beans are versatile for soups, stews, and global cuisines. Competitive pricing, reliable supply, and consistent quality make them an excellent choice for wholesalers and retailers.</p>
+                                    </div>
+                                    <div class="layer-1-3">
+                                        <a href="<?= base_url('Services') ?>" class="ready-btn left-btn">Our Services</a>
+                                        <a href="<?= base_url('Contact') ?>" class="ready-btn right-btn">Contact us</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+<!--  Cashew Nuts -->
+<!--       <div class="intro-content">
+            <div class="slider-images">
+                <img src="< ?= base_url('assets/img/slider/cashewnuts.png') ?>" alt="">
+            </div>
+            <div class="slider-content">
+                <div class="display-table">
+                    <div class="display-table-cell">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <div class="layer-1-2">
+                                        <h1 class="title2">Cashew Nuts</h1>
+                                    </div>
+                                    <div class="layer-1-1">
+                                        <p>High-quality plywood made from carefully selected hardwood and softwood veneers, bonded with durable adhesives for strength and stability. Ideal for construction, furniture, cabinetry, and interior applications, our plywood is precision-manufactured to meet industry standards. Sourced from sustainable East African forests and available in various thicknesses, grades, and custom sizes to suit your specific project requirements.</p>
+                                    </div>
+                                    <div class="layer-1-3">
+                                        <a href="< ?= base_url('Services') ?>" class="ready-btn left-btn">Our Services</a>
+                                        <a href="< ?= base_url('Contact') ?>" class="ready-btn right-btn">Contact us</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+   -->      
+<!-- African Coffee Powder -->
+        <div class="intro-content">
+            <div class="slider-images">
+                <img src="<?= base_url('assets/img/slider/coffee.png') ?>" alt="">
+            </div>
+            <div class="slider-content">
+                <div class="display-table">
+                    <div class="display-table-cell">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <div class="layer-1-2">
+                                        <h1 class="title1">African Coffee Powder</h1>
+                                    </div>
+                                    <div class="layer-1-1">
+                                        <p>Our African coffee powder is sourced from Tanzania’s fertile highlands, roasted and ground to perfection. Known for its rich aroma and smooth flavor, it’s high in antioxidants that boost energy and focus. SUJATHA GLOBAL guarantees ethically sourced coffee with consistent quality, flexible supply, and competitive prices, meeting the growing demand for premium beverages worldwide.</p>
+                                    </div>
+                                    <div class="layer-1-3">
+                                        <a href="<?= base_url('Services') ?>" class="ready-btn left-btn">Our Services</a>
+                                        <a href="<?= base_url('Contact') ?>" class="ready-btn right-btn">Contact us</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+<!-- Cloves -->
+        <div class="intro-content">
+            <div class="slider-images">
+                <img src="<?= base_url('assets/img/slider/cloves.png') ?>" alt="">
+            </div>
+            <div class="slider-content">
+                <div class="display-table">
+                    <div class="display-table-cell">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <div class="layer-1-2">
+                                        <h1 class="title1">Cloves</h1>
+                                    </div>
+                                    <div class="layer-1-1">
+                                        <p>SUJATHA GLOBAL supplies aromatic Tanzanian cloves, harvested and processed to preserve their natural strength. Packed with antioxidants and known for digestive and anti-inflammatory benefits, cloves are essential in foods, teas, and traditional remedies. With reliable bulk and retail supply, competitive pricing, and ethical sourcing, we ensure buyers receive top-quality cloves for culinary and health markets.</p>
+                                    </div>
+                                    <div class="layer-1-3">
+                                        <a href="<?= base_url('Services') ?>" class="ready-btn left-btn">Our Services</a>
+                                        <a href="<?= base_url('Contact') ?>" class="ready-btn right-btn">Contact us</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+<!-- Cardamom -->
+<!--         <div class="intro-content">
+            <div class="slider-images">
+                <img src="< ?= base_url('assets/img/slider/cardamom.png') ?>" alt="">
+            </div>
+            <div class="slider-content">
+                <div class="display-table">
+                    <div class="display-table-cell">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <div class="layer-1-2">
+                                        <h1 class="title2">Cardamom</h1>
+                                    </div>
+                                    <div class="layer-1-1">
+                                        <p>High-quality plywood made from carefully selected hardwood and softwood veneers, bonded with durable adhesives for strength and stability. Ideal for construction, furniture, cabinetry, and interior applications, our plywood is precision-manufactured to meet industry standards. Sourced from sustainable East African forests and available in various thicknesses, grades, and custom sizes to suit your specific project requirements.</p>
+                                    </div>
+                                    <div class="layer-1-3">
+                                        <a href="< ?= base_url('Services') ?>" class="ready-btn left-btn">Our Services</a>
+                                        <a href="< ?= base_url('Contact') ?>" class="ready-btn right-btn">Contact us</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+ -->        
+<!-- Cinnamon -->
+         <div class="intro-content">
+            <div class="slider-images">
+                <img src="<?= base_url('assets/img/slider/cinnamons.png') ?>" alt="">
+            </div>
+            <div class="slider-content">
+                <div class="display-table">
+                    <div class="display-table-cell">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <div class="layer-1-2">
+                                        <h1 class="title1">Cinnamon</h1>
+                                    </div>
+                                    <div class="layer-1-1">
+                                        <p>We provide premium Tanzanian cinnamon, carefully dried and graded for rich flavor and aroma. Valued for its ability to regulate blood sugar and boost immunity, cinnamon is widely used in cooking, beverages, and natural remedies. SUJATHA GLOBAL offers competitively priced, ethically sourced cinnamon with reliable supply, supporting businesses in both domestic and international markets.</p>
+                                    </div>
+                                    <div class="layer-1-3">
+                                        <a href="<?= base_url('Services') ?>" class="ready-btn left-btn">Our Services</a>
+                                        <a href="<?= base_url('Contact') ?>" class="ready-btn right-btn">Contact us</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+<!-- pinetimber -->
+        <div class="intro-content">
+            <div class="slider-images">
+                <img src="<?= base_url('assets/img/slider/pinetimber.jpg') ?>" alt="">
+            </div>
+
             <div class="slider-content">
                 <div class="display-table">
                     <div class="display-table-cell">
@@ -322,6 +538,8 @@
                 </div>
             </div>
         </div>
+
+<!-- plywood -->
         <div class="intro-content">
             <div class="slider-images">
                 <img src="<?= base_url('assets/img/slider/plywood.png') ?>" alt="">
@@ -349,6 +567,124 @@
                 </div>
             </div>
         </div>
+
+       
+<!-- Teak Wood -->
+        <div class="intro-content">
+            <div class="slider-images">
+                <img src="<?= base_url('assets/img/slider/teakwood.png') ?>" alt="">
+            </div>
+            <div class="slider-content">
+                <div class="display-table">
+                    <div class="display-table-cell">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <div class="layer-1-2">
+                                        <h1 class="title2">Teak Wood</h1>
+                                    </div>
+                                    <div class="layer-1-1">
+                                        <p>SUJATHA GLOBAL supplies durable teak wood, renowned for its natural strength, water resistance, and golden-brown finish. Ideal for furniture, flooring, and construction, our teak is sustainably sourced and precisely graded. Its longevity reduces maintenance costs while adding aesthetic value. Clients benefit from consistent supply, competitive prices, and ethically managed forestry practices.</p>
+                                    </div>
+                                    <div class="layer-1-3">
+                                        <a href="<?= base_url('Services') ?>" class="ready-btn left-btn">Our Services</a>
+                                        <a href="<?= base_url('Contact') ?>" class="ready-btn right-btn">Contact us</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+<!-- Eucalyptus Veneer -->
+<!--         <div class="intro-content">
+            <div class="slider-images">
+                <img src="< ?= base_url('assets/img/slider/venner.png') ?>" alt="">
+            </div>
+            <div class="slider-content">
+                <div class="display-table">
+                    <div class="display-table-cell">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <div class="layer-1-2">
+                                        <h1 class="title2">Eucalyptus Veneer</h1>
+                                    </div>
+                                    <div class="layer-1-1">
+                                        <p>High-quality plywood made from carefully selected hardwood and softwood veneers, bonded with durable adhesives for strength and stability. Ideal for construction, furniture, cabinetry, and interior applications, our plywood is precision-manufactured to meet industry standards. Sourced from sustainable East African forests and available in various thicknesses, grades, and custom sizes to suit your specific project requirements.</p>
+                                    </div>
+                                    <div class="layer-1-3">
+                                        <a href="< ?= base_url('Services') ?>" class="ready-btn left-btn">Our Services</a>
+                                        <a href="< ?= base_url('Contact') ?>" class="ready-btn right-btn">Contact us</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+ -->        
+<!-- Sea Shells -->
+        <div class="intro-content">
+            <div class="slider-images">
+                <img src="<?= base_url('assets/img/slider/seashells.png') ?>" alt="">
+            </div>
+            <div class="slider-content">
+                <div class="display-table">
+                    <div class="display-table-cell">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <div class="layer-1-2">
+                                        <h1 class="title2">Sea Shells</h1>
+                                    </div>
+                                    <div class="layer-1-1">
+                                        <p>Our natural sea shells are ethically collected from Tanzania’s pristine coasts, cleaned, and sorted for decorative and craft uses. Perfect for jewelry, interior décor, landscaping, and souvenirs, they offer unique beauty and versatility. SUJATHA GLOBAL ensures reliable supply, competitive pricing, and eco-conscious sourcing, making them a valuable choice for artisans, designers, and wholesalers.</p>
+                                    </div>
+                                    <div class="layer-1-3">
+                                        <a href="<?= base_url('Services') ?>" class="ready-btn left-btn">Our Services</a>
+                                        <a href="<?= base_url('Contact') ?>" class="ready-btn right-btn">Contact us</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+<!-- Pine Resin -->
+<!--         <div class="intro-content">
+            <div class="slider-images">
+                <img src="< ?= base_url('assets/img/slider/pineresin.png') ?>" alt="">
+            </div>
+            <div class="slider-content">
+                <div class="display-table">
+                    <div class="display-table-cell">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <div class="layer-1-2">
+                                        <h1 class="title2">Pine Resin</h1>
+                                    </div>
+                                    <div class="layer-1-1">
+                                        <p>High-quality plywood made from carefully selected hardwood and softwood veneers, bonded with durable adhesives for strength and stability. Ideal for construction, furniture, cabinetry, and interior applications, our plywood is precision-manufactured to meet industry standards. Sourced from sustainable East African forests and available in various thicknesses, grades, and custom sizes to suit your specific project requirements.</p>
+                                    </div>
+                                    <div class="layer-1-3">
+                                        <a href="< ?= base_url('Services') ?>" class="ready-btn left-btn">Our Services</a>
+                                        <a href="< ?= base_url('Contact') ?>" class="ready-btn right-btn">Contact us</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+ -->        
     </div>
 </div>
 <!-- End Slider Area -->
@@ -514,7 +850,7 @@ Soya beans are a nutritional powerhouse, rich in complete plant-based protein, e
                 <div class="col-md-4 col-sm-6 col-xs-12">
                     <div class="single-services text-left">
                         <div class="services-img">
-                            <img src="<?= base_url('assets/img/products/KidneyBeans.jpeg') ?>" alt="Avocado Oil">
+                            <img src="<?= base_url('assets/img/products/kidneybeans.jpeg') ?>" alt="Avocado Oil">
                             <div class="image-layer">
                                 <a href="#"><i class="fas fa-oil-can"></i></a>
                             </div>
@@ -733,7 +1069,7 @@ Eucalyptus veneer provides a versatile and cost-effective solution for designers
                 <div class="col-md-4 col-sm-6 col-xs-12">
                     <div class="single-services text-left">
                         <div class="services-img">
-                            <img src="<?= base_url('assets/img/products/Coffee.jpeg') ?>" alt="Wood Products">
+                            <img src="<?= base_url('assets/img/products/coffee.jpeg') ?>" alt="Wood Products">
                             <div class="image-layer">
                                 <a href="#"><i class="fas fa-tree"></i></a>
                             </div>

@@ -50,7 +50,7 @@
 									<h5>Location :</h5>
 									<a href="#"><i class="fa fa-map"></i><span>Plot no 4 , Ramadhani , Makete Road, Njombe, Tanzania </span></a>
 									<a href="#"><i class="fa fa-phone"></i><span>+255 679 199 555 / +255 679106199</span></a>
-									<a href="#"><i class="fa fa-envelope"></i><span>info@sujathaglobal.co.tz</span></a>
+									<a href="#"><i class="fa fa-envelope"></i><span>info@sujathaglobal.co.tz | Sales@sujathaglobal.co.tz </span></a>
 								</div>
 							</div>
                         </div>

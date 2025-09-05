@@ -85,7 +85,7 @@
                         <div class="client-details">
                             <div class="client-head">
                                 <h3>Our valuable partner</h3>
-                                <p>Assumenda repud eum veniam optio modi sit explicabo nisi magnam quibusdam.</p>
+                                <p>“We proudly collaborate with trusted partners worldwide, building lasting relationships based on quality, integrity, and mutual growth.”</p>
                             </div>
                             <div class="client-inner">
                                 <div class="single-client">
@@ -328,7 +328,7 @@
                         <div class="banner-content text-left">
                             <h4>Are you looking for professional Services of your company</h4>
                             <div class="banner-contact-btn">
-                                <a class="banner-btn" href="#">Contact us</a>
+                                <a class="banner-btn" href="<?= base_url('Contact') ?>">Contact us</a>
                             </div>
                         </div>
                     </div>

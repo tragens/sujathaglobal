@@ -119,7 +119,7 @@
                                     <li><a class="pagess" href="#">About us</a>
                                         <ul class="sub-menu">
                                             <li><a href="<?= base_url('About') ?>">About us</a></li>
-                                            <li><a href="<?= base_url('About/team') ?>">Team</a></li>
+                                            <!-- <li><a href="< ?= base_url('About/team') ? >">Team</a></li> -->
                                             <li><a href="<?= base_url('About/faq') ?>">FAQ</a></li>
                                         </ul>
                                     </li>

@@ -92,7 +92,7 @@
                <div class="row">
 					<div class="col-md-12 col-sm-12 col-xs-12">
 						<div class="center-headline text-center">
-						    <h3>“We source, process, and supply premium products globally — backed by trusted logistics, expert handling, and customer-first service<span class="color">and customer-first service.”</span></h3>
+						    <h3>“We source, process, and supply premium products globally — backed by trusted logistics, expert handling, and customer-first service.”<span class="color"></span></h3>
 						</div>
 					</div>
 				</div>
@@ -423,7 +423,7 @@ Pine timber is lightweight, strong, and easy to work with, making it ideal for f
 		                        </div>
 								<div class="main-services">
 									<div class="service-content">
-										<h4>Polywood</h4>
+										<h4>Plywood</h4>
 										<p>SUJATHA GLOBAL COMPANY LIMITED supplies high-quality plywood suitable for construction, furniture, and industrial applications. Our plywood sheets are produced with precision, strength, and durability in mind, meeting stringent local and export standards. Bulk and customized packaging options are available for various buyer requirements.
 
 Plywood is valued for its stability, flexibility, and resistance to splitting, making it an essential material for builders and manufacturers. It can be easily cut, shaped, and finished to match design specifications. Choosing SUJATHA GLOBAL ensures a reliable supply of premium plywood, backed by sustainable sourcing, quality assurance, and timely delivery to meet the demands of diverse projects.</p>
